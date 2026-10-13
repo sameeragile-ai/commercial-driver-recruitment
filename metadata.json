@@ -1,0 +1,6 @@
+{
+  "name": "RigReady - AI Commercial Driver Recruiting & Onboarding",
+  "description": "Multi-tenant transportation compliance SaaS for commercial driver recruiting, pre-qualification, OCR verification, and DOT onboarding readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
